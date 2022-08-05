@@ -356,8 +356,10 @@ input, textarea {
   font-style: normal;
 }
 
-.contactaddress h2 {
-  padding-top: 10%;
+.contactaddressh {
+   font-weight: bold;
+   font-size: 1.5em;
+   padding-top: 9%;
 }
 
 .emailus {
